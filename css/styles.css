@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@200&family=Source+Sans+Pro:wght@200&display=swap');
+
+font-family: 'Karla', sans-serif;
+
+*{
+    margin-top:0;
+    padding:0;
+}
+
+html{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style:normal;
+    font-size: 16px;
+    color: #5a5150;
+    line-height: 1.8;
+}
+
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    color:#4e4b4b;
+    line-height: 1.2;
+}
+
+h2 {
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-size: 40px;
+    color:#4e4b4b;
+    line-height: 1.2;
+}
+
+h3 {
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    color:#4e4b4b;
+    line-height: 1.4;
+}
+
+h4 {
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    color:#919291;
+    line-height: 1.4;
+}
+
+a {
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    color:#ca404f;
+    line-height: 1.4;
+    text-decoration: none;
+}
+
+button {
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    color:white;
+    line-height: 42px;
+    background-color: ca404f;
+}
